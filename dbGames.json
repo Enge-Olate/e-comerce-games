@@ -1,0 +1,18 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Jogo D Hora",
+      "descricao": "jogo de corrida ",
+      "foto": "jogo1.PNG",
+      "preco": 550
+    },
+    {
+      "id": 2,
+      "produto": "JOGO 5",
+      "descricao": "jogo de vigarice",
+      "foto": "jogo2.PNG",
+      "preco": 987
+    }
+  ]
+}
